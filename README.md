@@ -21,9 +21,9 @@ Me gusta el ámbito profesional, compartir mis conocimientos y aprender de otros
 
 [<img src="https://jeremydiaz.netlify.app/images/projects/movies.webp" alt="Movies" width="32%">](https://studiomovies.netlify.app/)
 [<img src="https://jeremydiaz.netlify.app/images/projects/godofwar.webp" alt="God of War Ragnarok" width="32%">](https://god-of-war-ragnarok-clone.netlify.app/)
+[<img src="https://jeremydiaz.netlify.app/images/projects/rick-and-morty.webp" alt="Rick and Morty" width="32%">](https://rick-and-morty-platform.netlify.app/)
 [<img src="https://jeremydiaz.netlify.app/images/projects/chatlocal.webp" alt="Chat local" width="32%">](https://chatlocal.netlify.app/)
 [<img src="https://jeremydiaz.netlify.app/images/projects/clongoogle.webp" alt="Google clon" width="32%">](https://clongoogle.netlify.app/)
-[<img src="https://jeremydiaz.netlify.app/images/projects/pokelist.webp" alt="PokeList" width="32%">](https://pokelists.netlify.app/)
 [<img src="https://jeremydiaz.netlify.app/images/projects/holaspreen.webp" alt="HolaSpreen" width="32%">](https://holaspreen.netlify.app/)
 
 ## Estadísticas 📢
