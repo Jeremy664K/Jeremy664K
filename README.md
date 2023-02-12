@@ -15,8 +15,6 @@ console.log("Más de dos años desarrollando como Frontend Developer & Software 
 Empecé de forma autodidacta viendo tutoriales, desde entonces, no he parado de desarrollar y mejorar como persona.   
 Me gusta el ámbito profesional, compartir mis conocimientos y aprender de otros.
 
-[<img src="https://jeremydiaz.netlify.app/images/me.webp" alt="Foto de Jeremy Díaz en Museo Aeronáutico" width="350px">](https://jeremydiaz.netlify.app)  
-
 ## Mis proyectos favoritos 🚀
 
 [<img src="https://jeremydiaz.netlify.app/images/projects/movies.webp" alt="Movies" width="32%">](https://studiomovies.netlify.app/)
