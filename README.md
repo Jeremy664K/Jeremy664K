@@ -4,11 +4,11 @@
 console.log("Más de dos años desarrollando como Frontend Developer & Software Developer")
 ```
 
-¡Revisa mis redes sociales y mi portfolio!
+¡Echale un vistazo a mis redes sociales y mi portfolio!  
 
-[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Jeremy Díaz LinkedIn" width="50px" height="40px">](https://www.linkedin.com/in/jeremy-d%C3%ADaz-50b594233/)
-[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Jeremy Díaz Twitter" width="50px" height="40px">](https://twitter.com/jeremy664k)
-[<img src="https://jeremydiaz.netlify.app/favicon.ico" alt="Logo de Jeremy Díaz" width="40px" height="40px">](https://jeremydiaz.netlify.app)
+[<img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="Jeremy Díaz LinkedIn">](https://www.linkedin.com/in/jeremy-d%C3%ADaz-50b594233/)
+[<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Twitter&color=1DA1F2&logo=Twitter&logoColor=FFFFFF&label=" alt="Jeremy Díaz Twitter">](https://twitter.com/jeremy664k)
+[<img src="https://jeremydiaz.netlify.app/favicon.ico" alt="Logo de Jeremy Díaz" width="28px" height="28px">](https://jeremydiaz.netlify.app)
   
 ## Sobre mí ✨
 
@@ -34,15 +34,24 @@ Me gusta el ámbito profesional, compartir mis conocimientos y aprender de otros
 </p>
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50px" height="40px"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50px" height="40px">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40px" height="40px"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="50px" height="40px">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50px" height="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50px" height="40px"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50px" height="40px"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50px" height="40px"> 
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="50px" height="40px">
-</p>
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=HTML5&label=&logoColor=FFFFFF" alt="HTML5"> 
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=1572B6&logo=CSS3&logoColor=FFFFFF&label=" alt="CSS3">
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Sass&color=CC6699&logo=Sass&logoColor=FFFFFF&label=" alt="Sass">
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=" alt="JavaScript"> 
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=React&color=222222&logo=React&logoColor=61DAFB&label=" alt="React"> 
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=" alt="Git"> 
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=" alt="GitHub"> 
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=GNU+Bash&color=4EAA25&logo=GNU+Bash&logoColor=FFFFFF&label=" alt="GNU Bash"> 
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=npm&color=CB3837&logo=npm&logoColor=FFFFFF&label=" alt="npm"> 
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Vite&color=646CFF&logo=Vite&logoColor=FFFFFF&label=" alt="Vite"> 
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=esbuild&color=222222&logo=esbuild&logoColor=FFCF00&label=" alt="esbuild"> 
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Webpack&color=222222&logo=Webpack&logoColor=8DD6F9&label=" alt="Webpack"> 
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=ESLint&color=4B32C3&logo=ESLint&logoColor=FFFFFF&label=" alt="ESlint"> 
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Prettier&color=222222&logo=Prettier&logoColor=F7B93E&label=" alt="Prettier"> 
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=OpenJDK&color=222222&logo=OpenJDK&logoColor=FFFFFF&label=" alt="OpenJDK">   
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=" alt="Python">
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio+Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label=" alt="Visual Studio Code"> 
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Sublime+Text&color=222222&logo=Sublime+Text&logoColor=FF9800&label=" alt="Sublime Text"> 
+</p>  
 
 ![Estadística de visitas del perfil de Jeremy Díaz](https://komarev.com/ghpvc/?username=jeremy664k&style=flat&color=dd6387)
