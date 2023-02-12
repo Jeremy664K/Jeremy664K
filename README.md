@@ -27,8 +27,8 @@ Me gusta el ámbito profesional, compartir mis conocimientos y aprender de otros
 ## Estadísticas 📢
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=jeremy664k" height="150px" alt="Estadística de usos de lenguaje de Jeremy Díaz">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=jeremy664k" height="150px" alt="Estadística de Github Profile de Jeremy Díaz">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=jevmydev" height="150px" alt="Estadística de usos de lenguaje de Jeremy Díaz">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=jevmydev" height="150px" alt="Estadística de Github Profile de Jeremy Díaz">
 </p>
 
 <p align="left">
@@ -52,4 +52,4 @@ Me gusta el ámbito profesional, compartir mis conocimientos y aprender de otros
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Sublime+Text&color=222222&logo=Sublime+Text&logoColor=FF9800&label=" alt="Sublime Text"> 
 </p>  
 
-![Estadística de visitas del perfil de Jeremy Díaz](https://komarev.com/ghpvc/?username=jeremy664k&style=flat&color=dd6387)
+![Estadística de visitas del perfil de Jeremy Díaz](https://komarev.com/ghpvc/?username=jevmydev&style=flat&color=dd6387)
