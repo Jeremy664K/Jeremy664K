@@ -33,7 +33,7 @@ Me gusta el ámbito profesional, compartir mis conocimientos y aprender de otros
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=jevmydev" height="150px" alt="Estadística de Github Profile de Jeremy Díaz">
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=HTML5&label=&logoColor=FFFFFF" alt="HTML5"> 
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=1572B6&logo=CSS3&logoColor=FFFFFF&label=" alt="CSS3">
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Sass&color=CC6699&logo=Sass&logoColor=FFFFFF&label=" alt="Sass">
@@ -55,6 +55,6 @@ Me gusta el ámbito profesional, compartir mis conocimientos y aprender de otros
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Sublime+Text&color=222222&logo=Sublime+Text&logoColor=FF9800&label=" alt="Sublime Text"> 
 </p>  
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=jevmydev&style=flat&color=dd6387" alt="Estadística de visitas del perfil de Jeremy Díaz"> 
 </p>
