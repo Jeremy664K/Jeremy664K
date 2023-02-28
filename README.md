@@ -1,7 +1,7 @@
 # Bienvenido 👋 Soy Jeremy Díaz 👨‍💻
 
 ```
-console.log("Más de dos años desarrollando como Frontend Developer & Software Developer")
+console.log("Más de dos años desarrollando como Frontend Developer & Software Developer");
 ```
 
 ¡Echale un vistazo a mis redes sociales y mi portfolio!  
