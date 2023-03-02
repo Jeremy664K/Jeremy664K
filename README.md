@@ -53,7 +53,7 @@ Me gusta el ámbito profesional, compartir mis conocimientos y aprender de otros
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=" alt="Python">
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio+Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label=" alt="Visual Studio Code"> 
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Sublime+Text&color=222222&logo=Sublime+Text&logoColor=FF9800&label=" alt="Sublime Text"> 
-</p>  
+</p>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=jevmydev&style=flat&color=dd6387" alt="Estadística de visitas del perfil de Jeremy Díaz"> 
