@@ -10,7 +10,7 @@ console.log("Más de dos años desarrollando como Frontend Developer & Software 
 [<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Instagram&color=E4405F&logo=Instagram&logoColor=FFFFFF&label=" alt="Jeremy Díaz Instagram">](https://instagram.com/jevmydev/)
 [<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Twitter&color=1DA1F2&logo=Twitter&logoColor=FFFFFF&label=" alt="Jeremy Díaz Twitter">](https://twitter.com/jevmydev/)
 [<img src="https://img.shields.io/static/v1?style=for-the-badge&message=YouTube&color=FF0000&logo=YouTube&logoColor=FFFFFF&label=" alt="Jeremy Díaz Youtube">](https://www.youtube.com/@jevmydev)
-[<img src="https://jeremydiaz.netlify.app/favicon.ico" alt="Logo de Jeremy Díaz" width="28px" height="28px">](https://jeremydiaz.netlify.app)
+[<img src="https://jeremydiaz.netlify.app/favicon.webp" alt="Logo de Jeremy Díaz" width="28px" height="28px">](https://jeremydiaz.netlify.app)
   
 ## Sobre mí ✨
 
