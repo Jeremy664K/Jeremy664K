@@ -14,8 +14,9 @@ console.log("Más de dos años desarrollando como Frontend Developer & Software 
   
 ## Sobre mí ✨
 
-Empecé de forma autodidacta viendo tutoriales, desde entonces, no he parado de desarrollar y mejorar como persona.   
-Me gusta el ámbito profesional, compartir mis conocimientos y aprender de otros.
+Comencé mi aprendizaje de forma autodidacta utilizando diversos recursos como tutoriales, directos, blogs, lecturas y proyectos personales.
+Desde entonces, he estado constantemente desarrollando y mejorando mis habilidades.
+Me siento muy cómodo en este ámbito profesional y disfruto compartiendo mis conocimientos y aprendiendo de los demás.
 
 ## Mis proyectos favoritos 🚀
 
