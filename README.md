@@ -39,6 +39,8 @@ Me siento muy cómodo en este ámbito profesional y disfruto compartiendo mis co
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=1572B6&logo=CSS3&logoColor=FFFFFF&label=" alt="CSS3">
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Sass&color=CC6699&logo=Sass&logoColor=FFFFFF&label=" alt="Sass">
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Tailwind+CSS&color=222222&logo=Tailwind+CSS&logoColor=06B6D4&label=" alt="Talwind CSS">
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=styled-components&color=DB7093&logo=styled-components&logoColor=FFFFFF&label=" alt="Styled Components">
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Bootstrap&color=7952B3&logo=Bootstrap&logoColor=FFFFFF&label=" alt="Bootstrap">
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=" alt="JavaScript"> 
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=TypeScript&color=3178C6&logo=TypeScript&logoColor=FFFFFF&label=" alt="TypeScript"> 
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=React&color=222222&logo=React&logoColor=61DAFB&label=" alt="React"> 
@@ -46,6 +48,7 @@ Me siento muy cómodo en este ámbito profesional y disfruto compartiendo mis co
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=" alt="GitHub"> 
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=GNU+Bash&color=4EAA25&logo=GNU+Bash&logoColor=FFFFFF&label=" alt="GNU Bash"> 
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=npm&color=CB3837&logo=npm&logoColor=FFFFFF&label=" alt="npm"> 
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=pnpm&color=222222&logo=pnpm&logoColor=F69220&label=" alt="pnpm"> 
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Vite&color=646CFF&logo=Vite&logoColor=FFFFFF&label=" alt="Vite"> 
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=esbuild&color=222222&logo=esbuild&logoColor=FFCF00&label=" alt="esbuild"> 
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Webpack&color=222222&logo=Webpack&logoColor=8DD6F9&label=" alt="Webpack"> 
